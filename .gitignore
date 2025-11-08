@@ -1,0 +1,4 @@
+# Ignore input files (as per AoC rules)
+*.txt
+*.dat
+*.csv
